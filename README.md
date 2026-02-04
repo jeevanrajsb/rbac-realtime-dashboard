@@ -38,7 +38,7 @@ This project demonstrates **Admin / Viewer role separation**, **real-time synchr
 ## 📁 Project Structure
 
 ```text
-client/
+client/                       #this is the root directory
 ├── src/
 │   ├── auth/                 # Login
 │   ├── pages/                # Admin & Viewer dashboards
@@ -58,7 +58,6 @@ client/
 STEP 1: Clone Repository
 
 $ git clone https://github.com/jeevanrajsb/rbac-realtime-dashboard.git
-$ cd rbac-realtime-dashboard/client
 
 
 STEP 2: Install Dependencies
@@ -68,7 +67,7 @@ $ npm install
 
 STEP 3: Environment Variables
 
-Create the following files inside the client/ directory.
+Create the following files inside the (current)client/ directory.
 
 .env.development
 
