@@ -48,7 +48,6 @@ client/
 │
 ├── .env.development          # Dev environment (ignored)
 ├── .env.production           # Prod environment (ignored)
-├── .env.example              # Environment template
 ├── package.json
 └── README.md
 ```
