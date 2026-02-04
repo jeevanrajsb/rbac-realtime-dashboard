@@ -58,7 +58,7 @@ client/
 ```text
 STEP 1: Clone Repository
 
-$ git clone https://github.com/<your-username>/rbac-realtime-dashboard.git
+$ git clone https://github.com/jeevanrajsb/rbac-realtime-dashboard.git
 $ cd rbac-realtime-dashboard/client
 
 
