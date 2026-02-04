@@ -58,6 +58,7 @@ client/                       #this is the root directory
 STEP 1: Clone Repository
 
 $ git clone https://github.com/jeevanrajsb/rbac-realtime-dashboard.git
+$ cd rbac-realtime-dashboard
 
 
 STEP 2: Install Dependencies
