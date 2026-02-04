@@ -76,9 +76,6 @@ Create the following files inside the client/ directory.
 VITE_FIREBASE_API_KEY=your_dev_api_key
 VITE_FIREBASE_AUTH_DOMAIN=your_dev_auth_domain
 VITE_FIREBASE_PROJECT_ID=your_dev_project_id
-VITE_FIREBASE_STORAGE_BUCKET=your_dev_bucket
-VITE_FIREBASE_MESSAGING_SENDER_ID=your_dev_sender_id
-VITE_FIREBASE_APP_ID=your_dev_app_id
 
 
 .env.production
@@ -86,9 +83,7 @@ VITE_FIREBASE_APP_ID=your_dev_app_id
 VITE_FIREBASE_API_KEY=your_prod_api_key
 VITE_FIREBASE_AUTH_DOMAIN=your_prod_auth_domain
 VITE_FIREBASE_PROJECT_ID=your_prod_project_id
-VITE_FIREBASE_STORAGE_BUCKET=your_prod_bucket
-VITE_FIREBASE_MESSAGING_SENDER_ID=your_prod_sender_id
-VITE_FIREBASE_APP_ID=your_prod_app_id
+
 
 
 NOTE:
